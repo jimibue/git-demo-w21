@@ -11,3 +11,7 @@ const james = () => {
 const bob = () => {
   console.log("bob");
 };
+
+const bob1 = () => {
+  console.log("bob");
+};
