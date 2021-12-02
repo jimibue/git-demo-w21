@@ -4,11 +4,3 @@ const james = () => {
 const james1 = () => {
   console.log("hello");
 };
-
-const bob1 = () => {
-  console.log("bob");
-};
-
-const bob2 = () => {
-  console.log("bob2");
-};
