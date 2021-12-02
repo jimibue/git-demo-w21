@@ -5,5 +5,5 @@ const app = () => {
 };
 
 const bob = ()=>{
- consol.log('bob')
+ console.log('bob')
 }
