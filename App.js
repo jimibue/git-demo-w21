@@ -3,3 +3,7 @@ const app = () => {
   console.log("hello");
   console.log(y);
 };
+
+const james = () => {
+  console.log("James");
+};
