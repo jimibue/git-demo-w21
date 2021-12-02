@@ -7,3 +7,7 @@ const app = () => {
 const james = () => {
   console.log("James");
 };
+
+const bob = () => {
+  console.log("bob");
+};
