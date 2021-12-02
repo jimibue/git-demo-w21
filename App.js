@@ -4,3 +4,7 @@ const james = () => {
 const james1 = () => {
   console.log("hello");
 };
+
+const bob1 = () => {
+  console.log("bob");
+};
