@@ -8,3 +8,7 @@ const james1 = () => {
 const bob1 = () => {
   console.log("bob");
 };
+
+const bob2 = () => {
+  console.log("bob2");
+};
